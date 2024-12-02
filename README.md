@@ -6,8 +6,3 @@
 
 https://www.instagram.com/p/CCa_uesgkK8/
 
-## Packages Used
-
-```sh
-intl: ^0.16.1
-```
